@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FM_Forumsite/static/css/main.0bbd7770.css",
+    "main.js": "/FM_Forumsite/static/js/main.88e53738.js",
+    "index.html": "/FM_Forumsite/index.html",
+    "main.0bbd7770.css.map": "/FM_Forumsite/static/css/main.0bbd7770.css.map",
+    "main.88e53738.js.map": "/FM_Forumsite/static/js/main.88e53738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bbd7770.css",
+    "static/js/main.88e53738.js"
+  ]
+}
